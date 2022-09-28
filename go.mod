@@ -11,7 +11,7 @@ require (
 	github.com/cli/go-gh v0.1.1-0.20220817122932-3630ab390fe7
 	github.com/cli/oauth v0.9.0
 	github.com/cli/safeexec v1.0.0
-	github.com/cli/shurcooL-graphql v0.0.1
+	github.com/cli/shurcooL-graphql v0.0.2
 	github.com/cpuguy83/go-md2man/v2 v2.0.2
 	github.com/creack/pty v1.1.18
 	github.com/gabriel-vasile/mimetype v1.4.1
@@ -68,7 +68,7 @@ require (
 	github.com/thlib/go-timezone-local v0.0.0-20210907160436-ef149e42d28e // indirect
 	github.com/yuin/goldmark v1.4.4 // indirect
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
+	golang.org/x/net v0.0.0-20220923203811-8be639271d50 // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
